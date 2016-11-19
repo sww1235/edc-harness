@@ -14,7 +14,10 @@ The words are clicky below and will take you to the listed part.
 -   have external power connections for flashlights or other things
 -   batteries are mounted in/on hip strap
 -   radios and other electronics are mounted on vertical shoulder straps of
-    harness
+    harness.
+-   antennas are integrated into rear straps of harness for ≤5W radios.
+    Essentally 1 step up from default rubber duck antenna that comes with radio.
+    Have extra coax routed to allow for pack mounted antennas.
 
 
 
@@ -24,8 +27,8 @@ The words are clicky below and will take you to the listed part.
 -   headset and boom mic (maybe on chin strap)
 -   custom connector between harness wiring and helmet
     -   2x4 pogo pin SLC connector and target (8 pins in total-4 audio, 4 lighting)
-    -   custom 3D printed housing at first, potentially milled
-        plastic/metal housing later
+    -   custom 3D printed housing at first, potentially milled plastic/metal
+        housing later
     -   heatshrink for cable strain relief
 
 ### Harness and Pack
