@@ -11,11 +11,15 @@ The words are clicky below and will take you to the listed part.
 
 ## Idea list
 
+-   have external power connections for flashlights or other things
+
 
 ### Helmet
 
 -   LED forward and rear lights
--   headset and boom mic
+-   headset and boom mic (maybe on chin strap)
 -   custom connector between harness wiring and helmet
-    -   2x4 pogo pin SLC connector and target
-    -   custom 3D printed housing at first 
+    -   2x4 pogo pin SLC connector and target (8 pins in total-4 audio, 4 lighting)
+    -   custom 3D printed housing at first, potentially milled
+        plastic/metal housing later
+    -   heatshrink for cable strain relief
