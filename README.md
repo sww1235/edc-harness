@@ -49,3 +49,10 @@ pack-harness connections
     -   pack has integrated frame like backpacking pack, with potential to mount
         pipe similar in diameter to bicycle handlebar to top as mounting point
         for antennae and extra lights.
+
+### Harness and Pack - Alt
+
+-   Bandolier or 3pt style harness
+-   chestplate designed to be lower than sternum strap on backpack
+-   Designed not to interfere with normal backpack
+-   
