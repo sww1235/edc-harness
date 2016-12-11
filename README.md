@@ -24,6 +24,9 @@ The words are clicky below and will take you to the listed part.
 ### Helmet
 
 -   LED forward and rear lights
+    -   Custom metal housing with screw on LED housings and central electronics box.
+    -   has two Amphenol screw on water proof circular connectors for headset
+        connection and primary connection to harness wiring.
 -   headset and boom mic (maybe on chin strap)
 -   custom connector between harness wiring and helmet
     -   2x4 pogo pin SLC connector and target (8 pins in total-4 audio, 4 lighting)
@@ -55,4 +58,4 @@ pack-harness connections
 -   Bandolier or 3pt style harness
 -   chestplate designed to be lower than sternum strap on backpack
 -   Designed not to interfere with normal backpack
--   
+-
