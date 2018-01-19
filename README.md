@@ -3,6 +3,10 @@
 The goal of this project is to provide a backbone on which my EDC electronics
 can be connected and charged while reducing weight and awkwardness.
 
+Most large electronic components will be connected to the MUX board which acts
+as a power distribution board and network hub for the various components as well
+as its function of routing audio and control signals for radios.
+
 Some components of this will be in separate github repositories as listed below.
 The words are clicky below and will take you to the listed part.
 
