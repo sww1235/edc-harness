@@ -9,6 +9,7 @@ The words are clicky below and will take you to the listed part.
 -   [Mixer](https://github.com/sww1235/portable-line-mixer)
 -   [Batteries](https://github.com/sww1235/portable-liIon-battery-pack)
 -   [MUX board](https://github.com/sww1235/edc-mux-board)
+-   [Computer](https://github.com/sww1235/beltpack-computer)
 
 ## Idea list
 
