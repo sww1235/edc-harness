@@ -15,6 +15,7 @@ The words are clicky below and will take you to the listed part.
 -   [Computer](https://github.com/sww1235/beltpack-computer)
 -   [Power Distribution Board](https://github.com/sww1235/edc-power-distro-board)
 -   [Flashlight Connector Module](https://github.com/sww1235/edc-flashlight-connector-module)
+-   [Bike Headlamp](https://github.com/sww1235/bike-headlamp)
 
 ## Idea list
 
