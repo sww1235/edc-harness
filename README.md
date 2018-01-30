@@ -3,17 +3,18 @@
 The goal of this project is to provide a backbone on which my EDC electronics
 can be connected and charged while reducing weight and awkwardness.
 
-Most large electronic components will be connected to the MUX board which acts
-as a power distribution board and network hub for the various components as well
-as its function of routing audio and control signals for radios.
+The various functions are split up into multiple units in order to increase
+flexibility. The overall diagram is seen below ![Connection Diagram](./edc-harness-connections.svg)
 
 Some components of this will be in separate github repositories as listed below.
 The words are clicky below and will take you to the listed part.
 
--   [Mixer](https://github.com/sww1235/portable-line-mixer)
+-   [Line Mixer](https://github.com/sww1235/portable-line-mixer)
 -   [Batteries](https://github.com/sww1235/portable-liIon-battery-pack)
 -   [MUX board](https://github.com/sww1235/edc-mux-board)
 -   [Computer](https://github.com/sww1235/beltpack-computer)
+-   [Power Distribution Board](https://github.com/sww1235/edc-power-distro-board)
+-   [Flashlight Connector Module](https://github.com/sww1235/edc-flashlight-connector-module)
 
 ## Idea list
 
@@ -64,4 +65,4 @@ pack-harness connections
 -   Bandolier or 3pt style harness
 -   chestplate designed to be lower than sternum strap on backpack
 -   Designed not to interfere with normal backpack
--
+-   Maybe a photographer's vest
