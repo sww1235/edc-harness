@@ -67,3 +67,6 @@ pack-harness connections
 -   chestplate designed to be lower than sternum strap on backpack
 -   Designed not to interfere with normal backpack
 -   Maybe a photographer's vest
+-   Provide a backplane inside a shoulder bag that all components can strap on to 
+	and interconnect. Have extra long cables for laptop, cellphone and flashlight 
+	connections to protrude out of the bag
